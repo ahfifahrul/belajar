@@ -1,3 +1,3 @@
 # Project Offload data melalui Git
 ## Halo sobat
-<pr>namaku ahfi fahrul</pr>
+<pr>saat ini aku sedang belajar menggunakan git</pr>
